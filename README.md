@@ -1,7 +1,7 @@
 # Agentic Resource Discovery (ARD)
 
 A machine-discoverable index of structured knowledge resources, built to test
-the concept of an ARD-compatible resource discovery on top of real, shipped
+the concept of an [ARD](https://agenticresourcediscovery.org)-compatible resource discovery on top of real, shipped
 catalogues.
 
 **Prerequisites:** Python ≥ 3.9, PyYAML (`pip install pyyaml`). Both source repos must be public on GitHub before running `build.sh`.
@@ -112,7 +112,7 @@ python3 case_export.py \
 
 | Standard | Relationship |
 |---|---|
-| **ARD spec** | `/.well-known/ai-catalog.json` and `agent-resources.json` follow the Agentic Resource Discovery well-known path convention |
+| **[ARD spec](https://agenticresourcediscovery.org)** | `/.well-known/ai-catalog.json` and `agent-resources.json` follow the Agentic Resource Discovery well-known path convention |
 | **Google A2A** | `/.well-known/agent-card.json` follows A2A agent card convention |
 | **Schema.org** | All resources typed as `EducationalOccupationalCredential` or `Course` |
 | **CASE (1EdTech)** | `case_export.py` produces valid CFPackage JSON — UUID v5 identifiers, CFItemType vocabulary, `isChildOf` associations. We use CASE's structural vocabulary; we don't adopt its governance model. |
