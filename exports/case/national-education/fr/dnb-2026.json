@@ -1,0 +1,2065 @@
+{
+  "@context": "https://opensalt.net/api/v1p0",
+  "@type": "CFPackage",
+  "CFDocument": {
+    "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+    "uri": "https://a2-knowledge/national-education/fr/dnb-2026",
+    "serverGeneratedId": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+    "title": "Diplôme National du Brevet — Session 2026",
+    "description": "French lower-secondary graduation exam, end of collège (age ~15)",
+    "creator": "Curtis Krygier — a2-knowledge catalogue",
+    "publisher": "Ministère de l'Éducation Nationale",
+    "language": "fr",
+    "version": "1.0",
+    "adoptionStatus": "Draft",
+    "statusStartDate": "2026-01-01",
+    "licenseURI": "https://creativecommons.org/licenses/by/4.0/",
+    "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+    "extensions": {
+      "a2-knowledge:id": "national-education/fr/dnb-2026",
+      "a2-knowledge:renderStrategy": "subject_hub",
+      "a2-knowledge:source": "BREVET_2026_CURRICULUM.md"
+    }
+  },
+  "CFItems": [
+    {
+      "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths",
+      "fullStatement": "Mathématiques",
+      "humanCodingScheme": "maths",
+      "CFItemType": "Domain",
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:weight": 0
+      }
+    },
+    {
+      "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais",
+      "fullStatement": "Français",
+      "humanCodingScheme": "francais",
+      "CFItemType": "Domain",
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:weight": 0
+      }
+    },
+    {
+      "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo",
+      "fullStatement": "Histoire-Géographie + EMC",
+      "humanCodingScheme": "histoire_geo",
+      "CFItemType": "Domain",
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:weight": 0
+      }
+    },
+    {
+      "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences",
+      "fullStatement": "Sciences",
+      "humanCodingScheme": "sciences",
+      "CFItemType": "Domain",
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:weight": 0
+      }
+    },
+    {
+      "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral",
+      "fullStatement": "Oral",
+      "humanCodingScheme": "oral",
+      "CFItemType": "Domain",
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:weight": 0
+      }
+    },
+    {
+      "identifier": "a609996f-0ed5-5d72-91a1-7bb45abe0258",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-automatismes-fractions",
+      "fullStatement": "Fractions et décimales (sans calculatrice)",
+      "humanCodingScheme": "maths-automatismes-fractions",
+      "CFItemType": "AssessmentItem",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "drill",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "9a6feb1b-9293-516b-902f-7998acbadfc1",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-automatismes-carres",
+      "fullStatement": "Carrés parfaits 1² à 12²",
+      "humanCodingScheme": "maths-automatismes-carres",
+      "CFItemType": "AssessmentItem",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "drill",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "439ac781-174d-5720-9e6b-bef2a08bf8e3",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-automatismes-divisibilite",
+      "fullStatement": "Critères de divisibilité 2, 3, 5, 9",
+      "humanCodingScheme": "maths-automatismes-divisibilite",
+      "CFItemType": "AssessmentItem",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "drill",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "c354a78a-afb0-56d7-ba4e-bfa5a2d2c325",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-pythagore",
+      "fullStatement": "Pythagore — direct, réciproque, contraposée",
+      "humanCodingScheme": "maths-geometrie-pythagore",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "90e408c2-eb8d-5b02-92a2-522bb65c7317",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-thales",
+      "fullStatement": "Thalès — configuration emboîtée et papillon",
+      "humanCodingScheme": "maths-geometrie-thales",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "ac56be64-4bfd-501f-9075-7b96a6c25881",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-trigo",
+      "fullStatement": "Trigonométrie sin, cos, tan",
+      "humanCodingScheme": "maths-geometrie-trigo",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "d6fd0f69-6eaa-525d-a0a1-5a88b3ee7169",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-volumes",
+      "fullStatement": "Volumes — prisme, cône, sphère, pyramide",
+      "humanCodingScheme": "maths-geometrie-volumes",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "17155699-f3f9-5ef2-b8bc-df257f4d4f8b",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-identites",
+      "fullStatement": "Identités remarquables",
+      "humanCodingScheme": "maths-algebre-identites",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "269e8063-6db3-537a-a2da-9919fad72d0e",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-equations",
+      "fullStatement": "Équations 1er degré (ax+b=c) + équation-produit nul",
+      "humanCodingScheme": "maths-algebre-equations",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "86faf29e-da7c-5418-bd74-dcad79b2b09e",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-fonctions",
+      "fullStatement": "Fonction linéaire f(x)=ax et affine f(x)=ax+b",
+      "humanCodingScheme": "maths-algebre-fonctions",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "9125eba4-9f78-5331-9ce4-bf4493bce208",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-nombres-premiers",
+      "fullStatement": "Nombres premiers jusqu'à 30",
+      "humanCodingScheme": "maths-algebre-nombres-premiers",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "low",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "c370c330-2661-5738-9dce-fbcbc7f32272",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-stats-probabilites",
+      "fullStatement": "Probabilités — arbres, événements contraires, incompatibles",
+      "humanCodingScheme": "maths-stats-probabilites",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "25f0acca-8d5f-5b7d-95c8-e05f050d6a71",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algo-scratch",
+      "fullStatement": "Algorithmique — boucles, variables, conditionnelles (Scratch ou Python)",
+      "humanCodingScheme": "maths-algo-scratch",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "maths"
+      }
+    },
+    {
+      "identifier": "62f1810c-c0b8-589f-81da-fca6aae6d47f",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-reecriture-singulier-pluriel",
+      "fullStatement": "Réécriture — singulier/pluriel (accords en cascade)",
+      "humanCodingScheme": "fr-reecriture-singulier-pluriel",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "6dc15c0d-a139-5303-84dc-8e4f497e9e7e",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-reecriture-temps",
+      "fullStatement": "Réécriture — changement de temps (passé simple/imparfait)",
+      "humanCodingScheme": "fr-reecriture-temps",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "a5c698d1-2b33-5309-83fe-12471e657ba6",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-reecriture-discours-indirect",
+      "fullStatement": "Réécriture — discours indirect (concordance des temps)",
+      "humanCodingScheme": "fr-reecriture-discours-indirect",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "46b89563-0b94-50cf-a194-23838a243dd6",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-concordance-temps",
+      "fullStatement": "Concordance des temps au discours indirect",
+      "humanCodingScheme": "fr-concordance-temps",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "d63c9f62-3a13-5a98-b501-f855b4e8ec56",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-figures-style-core",
+      "fullStatement": "Figures de style — Métaphore, Comparaison, Personnification, Hyperbole, Antithèse",
+      "humanCodingScheme": "fr-figures-style-core",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "aad582b2-598e-51ec-8a4c-ef6a83952889",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-figures-style-extended",
+      "fullStatement": "Figures de style — Allégorie, Oxymore, Périphrase",
+      "humanCodingScheme": "fr-figures-style-extended",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "20214626-441b-5fa8-b0b6-0df7d2121824",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-grammaire-classes",
+      "fullStatement": "Classes grammaticales et fonctions syntaxiques",
+      "humanCodingScheme": "fr-grammaire-classes",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "06274d75-ec09-5d35-ace0-f362821aa247",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-grammaire-subordonnees",
+      "fullStatement": "Propositions subordonnées — relative, complétive, conjonctive",
+      "humanCodingScheme": "fr-grammaire-subordonnees",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "d94bb557-f2de-5480-9fbb-f12f7746a8d6",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-grammaire-formation-mots",
+      "fullStatement": "Formation des mots — radical, préfixe, suffixe, dérivation",
+      "humanCodingScheme": "fr-grammaire-formation-mots",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "00a17a68-3d4a-5371-8b51-9c357177d252",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-4-entrees",
+      "fullStatement": "4 Entrées littéraires — roman engagé, poésie lyrique, théâtre, presse",
+      "humanCodingScheme": "fr-4-entrees",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "d8ff8e75-f939-5cf5-9435-cc7e4126fc5a",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-redaction-argumentatif",
+      "fullStatement": "Structure rédaction argumentative (sujet de réflexion)",
+      "humanCodingScheme": "fr-redaction-argumentatif",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "b628df4f-f9c9-549a-86c9-46448275b571",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-redaction-narratif",
+      "fullStatement": "Structure rédaction narrative (sujet d'imagination)",
+      "humanCodingScheme": "fr-redaction-narratif",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "francais"
+      }
+    },
+    {
+      "identifier": "83fdf134-6ea9-527f-aa80-f1b32e11fb3f",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t1-totalitarismes",
+      "fullStatement": "Thème 1 — Nazisme et Stalinisme (comparaison des totalitarismes)",
+      "humanCodingScheme": "hg-t1-totalitarismes",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "timeline",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "7fcc1be5-6171-57a2-a50e-30033251a586",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t2-ww2-genocides",
+      "fullStatement": "Thème 2 — Shoah, Samudaripen, Résistance, CNR 1943",
+      "humanCodingScheme": "hg-t2-ww2-genocides",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "timeline",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "0e70c1ab-9ec6-56d6-9995-e1070da0cffe",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t3-guerre-froide",
+      "fullStatement": "Thème 3 — Guerre froide, Bandung 1955, décolonisation, monde 1945-2000",
+      "humanCodingScheme": "hg-t3-guerre-froide",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "timeline",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "73515821-417f-550c-8649-a71c8891a02c",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t4-france-democratie",
+      "fullStatement": "Thème 4 — France en République 1944-2000 (vote femmes, IVG, peine de mort)",
+      "humanCodingScheme": "hg-t4-france-democratie",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "timeline",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "d150bab8-28b6-5f98-af41-e6648bd8fb59",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t5-europe",
+      "fullStatement": "Thème 5 — Construction européenne CECA→Maastricht→Brexit",
+      "humanCodingScheme": "hg-t5-europe",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "timeline",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "8f8db6d1-2e73-52d6-b486-8b58be8244ad",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-geo-france",
+      "fullStatement": "Géographie France — métropoles, zones productives, aménagement, monde",
+      "humanCodingScheme": "hg-geo-france",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "1658dd1c-46b3-5ac6-89ef-1514ee87ef5f",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/emc-axe1-discriminations",
+      "fullStatement": "EMC Axe 1 — discriminations, cyber-harcèlement, Défenseur des droits, laïcité",
+      "humanCodingScheme": "emc-axe1-discriminations",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "f8181410-89e9-5e5c-9243-9b5c518bff1d",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/emc-axe2-justice",
+      "fullStatement": "EMC Axe 2 — vocabulaire judiciaire (10 termes), présomption d'innocence",
+      "humanCodingScheme": "emc-axe2-justice",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "0ac21290-db8a-5a4d-93ca-9af0b2aece61",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/emc-axe3-republique",
+      "fullStatement": "EMC Axe 3 — symboles républicains, DDHC/CIDE, loi 1905, loi 2004",
+      "humanCodingScheme": "emc-axe3-republique",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "histoire_geo"
+      }
+    },
+    {
+      "identifier": "e81cf68e-1e1f-5159-b885-2c6e64d8bcfd",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-atomique",
+      "fullStatement": "PC — Modèle atomique, numéro atomique Z, tableau périodique",
+      "humanCodingScheme": "pc-atomique",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "e8291a8d-c3da-5241-a11e-f966f290aab0",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-reactions",
+      "fullStatement": "PC — Équations de réaction, loi de Lavoisier, équilibrage",
+      "humanCodingScheme": "pc-reactions",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "5b625668-97c2-594f-8a20-1123651d74b1",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-solutions",
+      "fullStatement": "PC — C=m/V, pH (acide/neutre/basique), sécurité dilution",
+      "humanCodingScheme": "pc-solutions",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "f1992b8e-54a6-554f-8ab9-a0e2ffac8245",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-mecanique",
+      "fullStatement": "PC — v=d/t, forces vectorielles, P=mg, U=RI, P=UI, E=Pt",
+      "humanCodingScheme": "pc-mecanique",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "9abf3d62-3885-5b8a-bfb4-7fbf576c0590",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-ondes",
+      "fullStatement": "PC — Ondes sonores vs lumineuses, d=v×t/2 (aller-retour)",
+      "humanCodingScheme": "pc-ondes",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "410718b7-7b65-521a-96d0-66a431195018",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/svt-terre",
+      "fullStatement": "SVT — Tectonique des plaques, séismes (foyer/épicentre), volcanisme effusif/explosif",
+      "humanCodingScheme": "svt-terre",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "91567686-481a-5012-8a82-3eb4684ad020",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/svt-biodiversite",
+      "fullStatement": "SVT — Écosystèmes, biodiversité, perturbations anthropiques",
+      "humanCodingScheme": "svt-biodiversite",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "4a1caeaa-649b-5021-bd89-fe1b3d8e7b0e",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/svt-vivant",
+      "fullStatement": "SVT — Corps à l'effort, agents pathogènes, vaccination, procréation",
+      "humanCodingScheme": "svt-vivant",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "2e426344-7f4f-5651-96f5-bf810667ef70",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/techno-chaines",
+      "fullStatement": "Techno — Chaîne d'énergie (Alimenter→Convertir) + chaîne d'information (Acquérir→Traiter)",
+      "humanCodingScheme": "techno-chaines",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "3c80d082-865a-5512-a2ea-526359194e8a",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/techno-reseaux",
+      "fullStatement": "Techno — IP, switch, routeur, TCP/IP, client/serveur, RGPD",
+      "humanCodingScheme": "techno-reseaux",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "b0728bf9-3e70-542e-872d-8c10f258951e",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/techno-programmation",
+      "fullStatement": "Techno — Algorithmique Python/Scratch, variables, boucles, conditionnelles",
+      "humanCodingScheme": "techno-programmation",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "sciences"
+      }
+    },
+    {
+      "identifier": "21694d3a-4b89-50dd-8278-29393546a886",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-projets",
+      "fullStatement": "3 projets éligibles — EPI, 4 Parcours républicains, Histoire des Arts",
+      "humanCodingScheme": "oral-projets",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "key_takeaways",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "oral"
+      }
+    },
+    {
+      "identifier": "3ac4e2f8-cc13-51b0-ae2e-32eaaf5989c8",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-expose-structure",
+      "fullStatement": "Structure de l'exposé minute par minute (5 min)",
+      "humanCodingScheme": "oral-expose-structure",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "oral"
+      }
+    },
+    {
+      "identifier": "8b8f91c6-4e98-5df8-8719-d7ff5d72995b",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-entretien-strategies",
+      "fullStatement": "3 questions clés de l'entretien + stratégies de réponse",
+      "humanCodingScheme": "oral-entretien-strategies",
+      "CFItemType": "Procedure",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "method",
+        "a2-knowledge:weight": "high",
+        "a2-knowledge:domain": "oral"
+      }
+    },
+    {
+      "identifier": "9a38bc6f-65e7-5b6e-99fa-9afb9e33bbb8",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-assr2",
+      "fullStatement": "ASSR2 — prérequis permis de conduire à 18 ans",
+      "humanCodingScheme": "oral-assr2",
+      "CFItemType": "Concept",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "concept",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "oral"
+      }
+    },
+    {
+      "identifier": "f58b2a75-5456-56cf-93c8-ae3bf94a07bd",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-pix",
+      "fullStatement": "PIX — 5 domaines de compétences numériques",
+      "humanCodingScheme": "oral-pix",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "oral"
+      }
+    },
+    {
+      "identifier": "5bf00bbd-cd61-5758-85cf-c268c28f56b8",
+      "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-psc1",
+      "fullStatement": "PSC1 — PLS, DEA, numéros d'urgence (15/17/18/112)",
+      "humanCodingScheme": "oral-psc1",
+      "CFItemType": "Term",
+      "educationLevel": [
+        "professional-foundation",
+        "professional-practitioner"
+      ],
+      "language": "fr",
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00",
+      "CFDocumentURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "extensions": {
+        "a2-knowledge:atomHint": "glossary",
+        "a2-knowledge:weight": "medium",
+        "a2-knowledge:domain": "oral"
+      }
+    }
+  ],
+  "CFAssociations": [
+    {
+      "identifier": "cf64b06a-a5fc-5c18-b41e-274307b0a96c",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths/doc",
+      "originNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "1d3a2739-2485-591f-8b51-35a2a02a9f9e",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/francais/doc",
+      "originNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "4f60e0f4-99f4-58d5-97df-57e7841e9ad3",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/histoire_geo/doc",
+      "originNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "c7fa74f5-f900-5792-9ec0-c011f2773b38",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/sciences/doc",
+      "originNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "f436166e-c7e4-54a4-b3ca-33dfd91bb3cc",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral/doc",
+      "originNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7350cb9a-e35b-5c44-8446-731862e41f4b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026"
+      },
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "f6d91c90-8dd5-54fa-8e28-5cd0987115c6",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-automatismes-fractions/domain",
+      "originNodeURI": {
+        "identifier": "a609996f-0ed5-5d72-91a1-7bb45abe0258",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-automatismes-fractions"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 1,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "67cd4cc5-e1b2-5181-9473-2fd2a0d6b9ea",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-automatismes-carres/domain",
+      "originNodeURI": {
+        "identifier": "9a6feb1b-9293-516b-902f-7998acbadfc1",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-automatismes-carres"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 2,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "af4ba4e1-5ca4-5f81-a30f-896a67399c10",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-automatismes-divisibilite/domain",
+      "originNodeURI": {
+        "identifier": "439ac781-174d-5720-9e6b-bef2a08bf8e3",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-automatismes-divisibilite"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 3,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "9bca8c8a-ca46-569f-ac2a-d0ea3607bea2",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-geometrie-pythagore/domain",
+      "originNodeURI": {
+        "identifier": "c354a78a-afb0-56d7-ba4e-bfa5a2d2c325",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-pythagore"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 4,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "e0886890-d792-54b4-9ae7-1f8b6168c0c3",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-geometrie-thales/domain",
+      "originNodeURI": {
+        "identifier": "90e408c2-eb8d-5b02-92a2-522bb65c7317",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-thales"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 5,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "6e6308e6-8c9b-5a37-856e-801f5e064c2f",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-geometrie-trigo/domain",
+      "originNodeURI": {
+        "identifier": "ac56be64-4bfd-501f-9075-7b96a6c25881",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-trigo"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 6,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "f5534a64-9264-5228-a070-671a40f12012",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-geometrie-volumes/domain",
+      "originNodeURI": {
+        "identifier": "d6fd0f69-6eaa-525d-a0a1-5a88b3ee7169",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-geometrie-volumes"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 7,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "a99191da-6513-5b42-adca-9e878a371b5e",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-algebre-identites/domain",
+      "originNodeURI": {
+        "identifier": "17155699-f3f9-5ef2-b8bc-df257f4d4f8b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-identites"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 8,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "85530a1d-2901-5b67-8e0c-cf2673a7fc80",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-algebre-equations/domain",
+      "originNodeURI": {
+        "identifier": "269e8063-6db3-537a-a2da-9919fad72d0e",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-equations"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 9,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "490233ed-264f-5819-94a4-230b21e16978",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-algebre-fonctions/domain",
+      "originNodeURI": {
+        "identifier": "86faf29e-da7c-5418-bd74-dcad79b2b09e",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-fonctions"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 10,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "46e9d570-e0e8-5c33-b105-9a7ac51c37b2",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-algebre-nombres-premiers/domain",
+      "originNodeURI": {
+        "identifier": "9125eba4-9f78-5331-9ce4-bf4493bce208",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algebre-nombres-premiers"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 11,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "d4663a4c-056d-58d3-b3ca-5978bfbabdda",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-stats-probabilites/domain",
+      "originNodeURI": {
+        "identifier": "c370c330-2661-5738-9dce-fbcbc7f32272",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-stats-probabilites"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 12,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "c818d642-36d5-5ca1-8d0b-c99c468d3bc3",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/maths-algo-scratch/domain",
+      "originNodeURI": {
+        "identifier": "25f0acca-8d5f-5b7d-95c8-e05f050d6a71",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths-algo-scratch"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "63848c27-ff00-5201-a4d6-66d26eec698b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/maths"
+      },
+      "sequenceNumber": 13,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "fb4a8db6-ea31-5eb1-b196-2d32bad6427f",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-reecriture-singulier-pluriel/domain",
+      "originNodeURI": {
+        "identifier": "62f1810c-c0b8-589f-81da-fca6aae6d47f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-reecriture-singulier-pluriel"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 14,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "29cf057a-95e1-5368-acab-1ed0d6cda5ee",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-reecriture-temps/domain",
+      "originNodeURI": {
+        "identifier": "6dc15c0d-a139-5303-84dc-8e4f497e9e7e",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-reecriture-temps"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 15,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "98060d7c-7317-568c-b5b5-b4ec4e2cd6e7",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-reecriture-discours-indirect/domain",
+      "originNodeURI": {
+        "identifier": "a5c698d1-2b33-5309-83fe-12471e657ba6",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-reecriture-discours-indirect"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 16,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "c06ef879-2dcc-5a27-8723-49e9b68b4fdd",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-concordance-temps/domain",
+      "originNodeURI": {
+        "identifier": "46b89563-0b94-50cf-a194-23838a243dd6",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-concordance-temps"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 17,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "206668ad-4a78-57f0-aaa7-2f17ac631cfb",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-figures-style-core/domain",
+      "originNodeURI": {
+        "identifier": "d63c9f62-3a13-5a98-b501-f855b4e8ec56",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-figures-style-core"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 18,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "0cee36e3-4665-5be7-a144-7b82483f8a0a",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-figures-style-extended/domain",
+      "originNodeURI": {
+        "identifier": "aad582b2-598e-51ec-8a4c-ef6a83952889",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-figures-style-extended"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 19,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "ec48f135-03c1-5fc9-a82e-82ba44c112a5",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-grammaire-classes/domain",
+      "originNodeURI": {
+        "identifier": "20214626-441b-5fa8-b0b6-0df7d2121824",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-grammaire-classes"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 20,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "2ecf42ba-7351-5fd4-88ac-ab2aa40c6e0b",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-grammaire-subordonnees/domain",
+      "originNodeURI": {
+        "identifier": "06274d75-ec09-5d35-ace0-f362821aa247",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-grammaire-subordonnees"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 21,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "1817a792-44e6-521d-a777-9dce888dbba7",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-grammaire-formation-mots/domain",
+      "originNodeURI": {
+        "identifier": "d94bb557-f2de-5480-9fbb-f12f7746a8d6",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-grammaire-formation-mots"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 22,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "b5b4976f-27bd-5ccb-b81e-e5d83074cb67",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-4-entrees/domain",
+      "originNodeURI": {
+        "identifier": "00a17a68-3d4a-5371-8b51-9c357177d252",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-4-entrees"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 23,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "0fe456b6-edff-54b8-80d8-dad23869901d",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-redaction-argumentatif/domain",
+      "originNodeURI": {
+        "identifier": "d8ff8e75-f939-5cf5-9435-cc7e4126fc5a",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-redaction-argumentatif"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 24,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "92c35e38-109b-5c67-afb2-12d878be7672",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/fr-redaction-narratif/domain",
+      "originNodeURI": {
+        "identifier": "b628df4f-f9c9-549a-86c9-46448275b571",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/fr-redaction-narratif"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "2fdc173a-9337-53e4-a7fd-757e7e57cec2",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/francais"
+      },
+      "sequenceNumber": 25,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "044dc21c-932c-556c-a16c-36437fe54938",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/hg-t1-totalitarismes/domain",
+      "originNodeURI": {
+        "identifier": "83fdf134-6ea9-527f-aa80-f1b32e11fb3f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t1-totalitarismes"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 26,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "ae8dea17-2aa9-5a29-8121-dd8e14059c47",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/hg-t2-ww2-genocides/domain",
+      "originNodeURI": {
+        "identifier": "7fcc1be5-6171-57a2-a50e-30033251a586",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t2-ww2-genocides"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 27,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "e8ec25e5-2fff-5522-b5b1-cfe9fe2d4a06",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/hg-t3-guerre-froide/domain",
+      "originNodeURI": {
+        "identifier": "0e70c1ab-9ec6-56d6-9995-e1070da0cffe",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t3-guerre-froide"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 28,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "69816fa6-57bb-5a74-bf3e-3f5f11aad4ea",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/hg-t4-france-democratie/domain",
+      "originNodeURI": {
+        "identifier": "73515821-417f-550c-8649-a71c8891a02c",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t4-france-democratie"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 29,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "a7bd0641-fbd3-5947-b14d-60474aa36460",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/hg-t5-europe/domain",
+      "originNodeURI": {
+        "identifier": "d150bab8-28b6-5f98-af41-e6648bd8fb59",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-t5-europe"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 30,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "4056f1f9-c53b-5405-8b03-80e6eb8425d9",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/hg-geo-france/domain",
+      "originNodeURI": {
+        "identifier": "8f8db6d1-2e73-52d6-b486-8b58be8244ad",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/hg-geo-france"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 31,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "dbefa17d-83e0-55b4-8146-29f3251ac260",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/emc-axe1-discriminations/domain",
+      "originNodeURI": {
+        "identifier": "1658dd1c-46b3-5ac6-89ef-1514ee87ef5f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/emc-axe1-discriminations"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 32,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "31edafd0-b61f-5198-b4a3-e56e1b07fca3",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/emc-axe2-justice/domain",
+      "originNodeURI": {
+        "identifier": "f8181410-89e9-5e5c-9243-9b5c518bff1d",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/emc-axe2-justice"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 33,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "9bcdf2cf-d9a8-5085-8ae0-2dcafec40f65",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/emc-axe3-republique/domain",
+      "originNodeURI": {
+        "identifier": "0ac21290-db8a-5a4d-93ca-9af0b2aece61",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/emc-axe3-republique"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "12b37a53-6b2c-5ecd-b0ad-36b04983a51f",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/histoire_geo"
+      },
+      "sequenceNumber": 34,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "5f5becfb-82ca-54e1-89e2-c9bd7fe2a326",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/pc-atomique/domain",
+      "originNodeURI": {
+        "identifier": "e81cf68e-1e1f-5159-b885-2c6e64d8bcfd",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-atomique"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 35,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "a7646fea-2a2a-56c9-8dfb-0f48ab7c41c8",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/pc-reactions/domain",
+      "originNodeURI": {
+        "identifier": "e8291a8d-c3da-5241-a11e-f966f290aab0",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-reactions"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 36,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "11a1fc63-dd2d-5cf0-9d7c-022a75339e11",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/pc-solutions/domain",
+      "originNodeURI": {
+        "identifier": "5b625668-97c2-594f-8a20-1123651d74b1",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-solutions"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 37,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "128c4e10-baf7-580c-ac5b-e9f2db1d3299",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/pc-mecanique/domain",
+      "originNodeURI": {
+        "identifier": "f1992b8e-54a6-554f-8ab9-a0e2ffac8245",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-mecanique"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 38,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "aa705ed8-9a5b-5d55-b607-d23c635579ad",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/pc-ondes/domain",
+      "originNodeURI": {
+        "identifier": "9abf3d62-3885-5b8a-bfb4-7fbf576c0590",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/pc-ondes"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 39,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "4ac939d2-e18b-5ec3-b602-a7960481bf07",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/svt-terre/domain",
+      "originNodeURI": {
+        "identifier": "410718b7-7b65-521a-96d0-66a431195018",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/svt-terre"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 40,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "31338763-14de-5e46-9532-4ba98cb07f6b",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/svt-biodiversite/domain",
+      "originNodeURI": {
+        "identifier": "91567686-481a-5012-8a82-3eb4684ad020",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/svt-biodiversite"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 41,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "890232b7-341d-56d9-9d12-dcf0997ca208",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/svt-vivant/domain",
+      "originNodeURI": {
+        "identifier": "4a1caeaa-649b-5021-bd89-fe1b3d8e7b0e",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/svt-vivant"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 42,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "7228d75d-8656-58ff-b39e-b984e11057c0",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/techno-chaines/domain",
+      "originNodeURI": {
+        "identifier": "2e426344-7f4f-5651-96f5-bf810667ef70",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/techno-chaines"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 43,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "5fee7531-7ed4-5fee-9c79-1c08b541bd1a",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/techno-reseaux/domain",
+      "originNodeURI": {
+        "identifier": "3c80d082-865a-5512-a2ea-526359194e8a",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/techno-reseaux"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 44,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "7382b92c-adc1-5364-8e53-52cb04940317",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/techno-programmation/domain",
+      "originNodeURI": {
+        "identifier": "b0728bf9-3e70-542e-872d-8c10f258951e",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/techno-programmation"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "dd3c9e9b-420d-5626-983b-438415cabd6b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/sciences"
+      },
+      "sequenceNumber": 45,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "6c59f4c7-a608-5d65-a03c-847bf0f02934",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral-projets/domain",
+      "originNodeURI": {
+        "identifier": "21694d3a-4b89-50dd-8278-29393546a886",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-projets"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "sequenceNumber": 46,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "76fb2e72-b61e-584e-8096-188568e20820",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral-expose-structure/domain",
+      "originNodeURI": {
+        "identifier": "3ac4e2f8-cc13-51b0-ae2e-32eaaf5989c8",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-expose-structure"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "sequenceNumber": 47,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "2cffef00-a62f-5c95-895c-ac6b3e786087",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral-entretien-strategies/domain",
+      "originNodeURI": {
+        "identifier": "8b8f91c6-4e98-5df8-8719-d7ff5d72995b",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-entretien-strategies"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "sequenceNumber": 48,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "a290640e-2701-5519-a366-c753b675d17a",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral-assr2/domain",
+      "originNodeURI": {
+        "identifier": "9a38bc6f-65e7-5b6e-99fa-9afb9e33bbb8",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-assr2"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "sequenceNumber": 49,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "f34b3149-288d-5d9e-b8d5-f53e3b911929",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral-pix/domain",
+      "originNodeURI": {
+        "identifier": "f58b2a75-5456-56cf-93c8-ae3bf94a07bd",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-pix"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "sequenceNumber": 50,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    },
+    {
+      "identifier": "b7d7e4b9-4164-5b16-a8f2-039f3cc73ac5",
+      "uri": "https://a2-knowledge/assoc/national-education/fr/dnb-2026/oral-psc1/domain",
+      "originNodeURI": {
+        "identifier": "5bf00bbd-cd61-5758-85cf-c268c28f56b8",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral-psc1"
+      },
+      "associationType": "isChildOf",
+      "destinationNodeURI": {
+        "identifier": "7b5221c8-0631-570d-afcf-6d18db33fc33",
+        "uri": "https://a2-knowledge/national-education/fr/dnb-2026/oral"
+      },
+      "sequenceNumber": 51,
+      "lastChangeDateTime": "2026-06-21T10:22:56+00:00"
+    }
+  ]
+}

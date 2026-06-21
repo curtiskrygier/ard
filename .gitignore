@@ -1,0 +1,6 @@
+sources/
+__pycache__/
+*.pyc
+.DS_Store
+ROAST-*.md
+exports/case/pro-cert/opengroup/

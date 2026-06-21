@@ -1,0 +1,42 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Curtis Krygier — A2 Knowledge",
+    "identifier": "https://github.com/curtiskrygier"
+  },
+  "entries": [
+    {
+      "identifier": "urn:ai:curtiskrygier.github.io:knowledge:national-education/fr/dnb-2026",
+      "displayName": "Diplôme National du Brevet — Session 2026",
+      "type": "application/a2ui-knowledge+json",
+      "url": "https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec?mode=api&resource=national-education/fr/dnb-2026",
+      "description": "Diplôme National du Brevet — Session 2026 — competency-mapped knowledge curriculum. Render: https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec?nav=dnb-2026",
+      "tags": [
+        "brevet",
+        "collège",
+        "dnb",
+        "france"
+      ]
+    },
+    {
+      "identifier": "urn:ai:curtiskrygier.github.io:knowledge:pro-cert/nist/nist-ai-rmf",
+      "displayName": "NIST AI Risk Management Framework 1.0",
+      "type": "application/a2ui-knowledge+json",
+      "url": "https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec?mode=api&resource=pro-cert/nist/nist-ai-rmf",
+      "description": "NIST AI Risk Management Framework 1.0 — competency-mapped knowledge curriculum. Render: https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec?nav=nist-ai-rmf",
+      "tags": [
+        "nist",
+        "ai-rmf",
+        "governance",
+        "risk",
+        "public-domain"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "displayName": "a2knowledge — full schema + curriculum catalogue",
+      "url": "https://github.com/curtiskrygier/a2knowledge"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "A2 Agentic Resource Discovery",
+  "description": "Curated registry of structured knowledge resources — competency-mapped curricula for professional certifications and national education frameworks, compiled for agent consumption. Proposes application/a2ui-knowledge+json as a type extension for educational resources in the ARD spec.",
+  "url": "https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec",
+  "provider": {
+    "organization": "Curtis Krygier",
+    "url": "https://github.com/curtiskrygier/ard"
+  },
+  "version": "0.1.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "skills": [
+    {
+      "id": "discover-resources",
+      "name": "Discover knowledge resources",
+      "description": "Returns the full catalog via /.well-known/ai-catalog.json",
+      "inputModes": [
+        "text"
+      ],
+      "outputModes": [
+        "application/json"
+      ]
+    },
+    {
+      "id": "render-resource",
+      "name": "Render a knowledge resource",
+      "description": "Returns an interactive learning app for a given resource ID via A2UI GAS surface",
+      "inputModes": [
+        "text"
+      ],
+      "outputModes": [
+        "text/html"
+      ]
+    },
+    {
+      "id": "export-case",
+      "name": "Export as CASE CFPackage",
+      "description": "Returns a CASE-compliant CFPackage JSON for any registered resource — for LMS import",
+      "inputModes": [
+        "text"
+      ],
+      "outputModes": [
+        "application/json"
+      ]
+    }
+  ],
+  "securitySchemes": {
+    "google": {
+      "type": "oauth2",
+      "description": "Google account required for GAS render surface"
+    }
+  }
+}

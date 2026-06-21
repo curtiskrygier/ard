@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "a2a": "https://google.github.io/A2A/vocab#",
+    "a2ui": "https://github.com/curtiskrygier/a2ui/vocab#"
+  },
+  "@type": "ItemList",
+  "@id": "https://github.com/curtiskrygier/Agentic-Resource-Directory/.well-known/agent-resources.json",
+  "name": "A2 Agentic Resource Discovery",
+  "description": "Machine-discoverable index of a2knowledge curricula and a2ui rendering capabilities. Each resource is a compiled knowledge artefact queryable by A2A-compatible agents.",
+  "author": {
+    "@type": "Person",
+    "name": "Curtis Krygier",
+    "url": "https://github.com/curtiskrygier"
+  },
+  "dateModified": "2026-06-21T20:17:30Z",
+  "numberOfItems": 2,
+  "itemListElement": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://raw.githubusercontent.com/curtiskrygier/a2knowledge/master/schemas/national-education/fr/dnb-2026.yaml",
+      "identifier": "national-education/fr/dnb-2026",
+      "name": "Diplôme National du Brevet — Session 2026",
+      "provider": {
+        "@type": "Organization",
+        "name": "Ministère de l'Éducation Nationale"
+      },
+      "inLanguage": "fr",
+      "educationalLevel": "national-education",
+      "keywords": [
+        "brevet",
+        "collège",
+        "dnb",
+        "france"
+      ],
+      "a2a:renderCapabilities": [
+        {
+          "surface": "google-apps-script",
+          "url": "https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec?nav=brevet-2026",
+          "renderStrategy": "subject_hub"
+        }
+      ]
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://raw.githubusercontent.com/curtiskrygier/a2knowledge/master/schemas/pro-cert/nist/nist-ai-rmf.yaml",
+      "identifier": "pro-cert/nist/nist-ai-rmf",
+      "name": "NIST AI Risk Management Framework 1.0",
+      "provider": {
+        "@type": "Organization",
+        "name": "NIST"
+      },
+      "inLanguage": "en",
+      "educationalLevel": "pro-cert",
+      "keywords": [
+        "nist",
+        "ai-rmf",
+        "governance",
+        "risk",
+        "public-domain"
+      ],
+      "a2a:renderCapabilities": [
+        {
+          "surface": "google-apps-script",
+          "url": "https://script.google.com/macros/s/AKfycbySUgHU2ynyj-GMc9_oR9qiWlwCVrNSeCwFXY_JYExxIldHYnQFfqgo_vE_uUBJg2L7/exec?nav=nist-ai-rmf",
+          "renderStrategy": "domain_hub"
+        }
+      ]
+    }
+  ]
+}
